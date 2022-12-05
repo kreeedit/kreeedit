@@ -10,7 +10,8 @@ ML/NLP Engineer
 ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="[https://www.python.org/](https://en.wikipedia.org/wiki/Deep_learning)" target="_blank" rel="noreferrer"><img src="https://cdn.onlinewebfonts.com/svg/img_532572.svg" width="36" height="36" alt="Deep Learning" /></a>
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer"><img src="https://cdn.onlinewebfonts.com/svg/img_532572.svg" width="36" height="36" alt="Deep Learning" /></a>
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer"><img src="https://cdn0.iconfinder.com/data/icons/artificial-intelligence-butterscotch-vol-2/256/Natural_Language_Processing-512.png" width="36" height="36" alt="Deep Learning" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
