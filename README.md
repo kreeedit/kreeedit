@@ -7,7 +7,7 @@ I am Tamás
 
 *   🌍  I'm based in Graz
 *   🚀  I'm currently working on [DiDip ERC project](https://cordis.europa.eu/project/id/101019327)
-*   Diplomatics is a centuries-old scholarly discipline centred on the critical analysis of documents. Current methods are not sufficient to deal with the large number of documents created in Europe since the 13th century. The EU-funded DiDip project will bring diplomatics into the digital present. It will investigate European trends and regional differences in the production and use of 14th and 15th century charters. Among the questions, the project will answer using machine learning and computer vision: How do local and regional practices react to the spread of Roman law among European legal thinkers? How do the two widespread authentication practices, by seal and by notarial signature, relate to each other?
+Project abstract: Diplomatics is a centuries-old scholarly discipline centred on the critical analysis of documents. Current methods are not sufficient to deal with the large number of documents created in Europe since the 13th century. The EU-funded DiDip project will bring diplomatics into the digital present. It will investigate European trends and regional differences in the production and use of 14th and 15th century charters. Among the questions, the project will answer using machine learning and computer vision: How do local and regional practices react to the spread of Roman law among European legal thinkers? How do the two widespread authentication practices, by seal and by notarial signature, relate to each other?
 
 ### Skills 
 <p align="left">
