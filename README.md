@@ -9,7 +9,7 @@ Project abstract: Diplomatics is a centuries-old scholarly discipline centred on
 ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://pandas.pydata.org/docs/index.html" target="_blank" rel="noreferrer"><img src="https://engeto.cz/wp-content/uploads/2020/11/logo-pandas-1.png" width="85" height="40" alt="Pandas" /></a>
+<a href="https://pandas.pydata.org/docs/index.html" target="_blank" rel="noreferrer"><img src="https://engeto.cz/wp-content/uploads/2020/11/logo-pandas-1.png" width="90" height="45" alt="Pandas" /></a>
 <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer"><img src="https://cdn.onlinewebfonts.com/svg/img_532572.svg" width="36" height="36" alt="Deep Learning" /></a>
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer"><img src="https://cdn0.iconfinder.com/data/icons/artificial-intelligence-butterscotch-vol-2/256/Natural_Language_Processing-512.png" width="36" height="36" alt="Deep Learning" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
