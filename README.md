@@ -8,7 +8,7 @@ Project abstract: Diplomatics is a centuries-old scholarly discipline centred on
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch-tutorial.readthedocs.io/en/latest/img/pytorch-logo-dark.png" width="130" height="32" alt="Pandas" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch-tutorial.readthedocs.io/en/latest/img/pytorch-logo-dark.png" width="103" height="21" alt="Pandas" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38" alt="Huggingface" /></a>
 <a href="https://pandas.pydata.org/docs/index.html" target="_blank" rel="noreferrer"><img src="https://engeto.cz/wp-content/uploads/2020/11/logo-pandas-1.png" width="96" height="40" alt="Pandas" /></a>
 </p>
