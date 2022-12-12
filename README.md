@@ -1,4 +1,5 @@
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Tamás
+### Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="22" height="22"/> I am Tamás
+
 
 and I am a postdoctoral NLP researcher at the [Institute Centre for Information Modelling](https://informationsmodellierung.uni-graz.at/en/), [UniGraz](https://www.uni-graz.at)
 
