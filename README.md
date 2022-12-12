@@ -3,9 +3,7 @@
 
 and I am a postdoctoral NLP researcher at the [Institute Centre for Information Modelling](https://informationsmodellierung.uni-graz.at/en/), [UniGraz](https://www.uni-graz.at)
 
-- 🚀  I'm currently working on [DiDip ERC project](https://cordis.europa.eu/project/id/101019327)
-
-Project abstract: Diplomatics is a centuries-old scholarly discipline centred on the critical analysis of documents. Current methods are not sufficient to deal with the large number of documents created in Europe since the 13th century. The EU-funded DiDip project will bring diplomatics into the digital present. It will investigate European trends and regional differences in the production and use of 14th and 15th century charters. Among the questions, the project will answer using machine learning and computer vision: How do local and regional practices react to the spread of Roman law among European legal thinkers? How do the two widespread authentication practices, by seal and by notarial signature, relate to each other?
+- 🚀  I'm currently working on [DiDip ERC project](https://cordis.europa.eu/project/id/101019327) that examines European trends and regional disparities in the production and usage of 14th- and 15th-century charters written in low-resource languages (e.g., [DE-StadtA-BOR-W 84](https://images.monasterium.net/img/DE-StadtA-BOR-W/Urkunden/StadtA_BORK-W_U084_r.JPG)). We use machine learning, natural language processing, and computer vision to address the question: How do local and regional practices react to the diffusion of Roman law among European legal thinkers?How do seal and notarial signature authentication compare?
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="22" height="22" alt="Python" /></a>
